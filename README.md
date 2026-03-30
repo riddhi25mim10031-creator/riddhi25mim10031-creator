@@ -1,6 +1,15 @@
-Hello, My name is Riddhi Tiwari
+# Digital Skills Project
 
-I am currently pursuing an Integrated M.Tech in Artificial Intelligence and Machine Learning at VIT Bhopal University.
+Name: Riddhi Tiwari  
+Reg no: 25MIM10031
+University: VIT Bhopal University  
 
-I am passionate about programming, AI, and data science. I aim to build innovative projects, improve my technical and problem-solving skills, and grow as a skilled developer over the next four years.
+## Project Overview
+This repository contains my Digital Literacy project submission. It includes five tasks covering presentation, portfolio setup, platform activities, email etiquette, and cybercrime awareness.
 
+## Project Structure
+- Task 1 – Presentation
+- Task 2 – Portfolio
+- Task 3 – Platforms
+- Task 4 – Email Etiette
+- Task 5 – Cybercrime
